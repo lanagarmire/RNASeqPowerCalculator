@@ -1,0 +1,5 @@
+install.packages("BiocManager")
+BiocManager::install("edgeR")
+BiocManager::install("DESeq2")
+BiocManager::install("sSeq")
+BiocManager::install("EBSeq")
